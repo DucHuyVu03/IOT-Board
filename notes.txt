@@ -1,1 +1,1 @@
-The file "DHK.ino" is our team "DHK" main program files. For some reasons when I change it name the program decided to break.
+The file "DHK.ino" is our team "DHK" main program files. For some reasons when I change its name the program decided to break.
