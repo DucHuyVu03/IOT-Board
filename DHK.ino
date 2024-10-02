@@ -24,8 +24,8 @@ int _LenhONOFFK2;
 int relayMode;
 int RSSI;
 
-#define API_KEY "AIzaSyB7zlpUo5bEiNCN8TUY98BcWa5Zagcw6nQ"
-#define DATABASE_URL "https://iotfordhk-default-rtdb.asia-southeast1.firebasedatabase.app/" 
+#define API_KEY "Put your own API key here"
+#define DATABASE_URL "Your own database url" 
 
 FirebaseData fbdo;
 FirebaseAuth auth;
